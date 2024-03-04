@@ -1,0 +1,15 @@
+D:\STUDY\BCIT\TERM4\COMP4870\ASSIGNMENT1\4870-assignment-1\DatabaseModelClasses\bin\Debug\net8.0\DatabaseModelClasses.deps.json
+D:\STUDY\BCIT\TERM4\COMP4870\ASSIGNMENT1\4870-assignment-1\DatabaseModelClasses\bin\Debug\net8.0\DatabaseModelClasses.runtimeconfig.json
+D:\STUDY\BCIT\TERM4\COMP4870\ASSIGNMENT1\4870-assignment-1\DatabaseModelClasses\bin\Debug\net8.0\DatabaseModelClasses.dll
+D:\STUDY\BCIT\TERM4\COMP4870\ASSIGNMENT1\4870-assignment-1\DatabaseModelClasses\bin\Debug\net8.0\DatabaseModelClasses.pdb
+D:\STUDY\BCIT\TERM4\COMP4870\ASSIGNMENT1\4870-assignment-1\DatabaseModelClasses\obj\Debug\net8.0\DatabaseModelClasses.csproj.AssemblyReference.cache
+D:\STUDY\BCIT\TERM4\COMP4870\ASSIGNMENT1\4870-assignment-1\DatabaseModelClasses\obj\Debug\net8.0\DatabaseModelClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY\BCIT\TERM4\COMP4870\ASSIGNMENT1\4870-assignment-1\DatabaseModelClasses\obj\Debug\net8.0\DatabaseModelClasses.AssemblyInfoInputs.cache
+D:\STUDY\BCIT\TERM4\COMP4870\ASSIGNMENT1\4870-assignment-1\DatabaseModelClasses\obj\Debug\net8.0\DatabaseModelClasses.AssemblyInfo.cs
+D:\STUDY\BCIT\TERM4\COMP4870\ASSIGNMENT1\4870-assignment-1\DatabaseModelClasses\obj\Debug\net8.0\DatabaseModelClasses.csproj.CoreCompileInputs.cache
+D:\STUDY\BCIT\TERM4\COMP4870\ASSIGNMENT1\4870-assignment-1\DatabaseModelClasses\obj\Debug\net8.0\DatabaseModelClasses.sourcelink.json
+D:\STUDY\BCIT\TERM4\COMP4870\ASSIGNMENT1\4870-assignment-1\DatabaseModelClasses\obj\Debug\net8.0\DatabaseModelClasses.dll
+D:\STUDY\BCIT\TERM4\COMP4870\ASSIGNMENT1\4870-assignment-1\DatabaseModelClasses\obj\Debug\net8.0\refint\DatabaseModelClasses.dll
+D:\STUDY\BCIT\TERM4\COMP4870\ASSIGNMENT1\4870-assignment-1\DatabaseModelClasses\obj\Debug\net8.0\DatabaseModelClasses.pdb
+D:\STUDY\BCIT\TERM4\COMP4870\ASSIGNMENT1\4870-assignment-1\DatabaseModelClasses\obj\Debug\net8.0\DatabaseModelClasses.genruntimeconfig.cache
+D:\STUDY\BCIT\TERM4\COMP4870\ASSIGNMENT1\4870-assignment-1\DatabaseModelClasses\obj\Debug\net8.0\ref\DatabaseModelClasses.dll

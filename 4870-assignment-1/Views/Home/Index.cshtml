@@ -1,0 +1,73 @@
+﻿@model IEnumerable<DatabaseModelClasses.ViewModels.TripViewModel>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    @if (User.Identity.IsAuthenticated)
+    {
+        <h2 style="margin-top: 20px; margin-bottom: 20px; text-decoration: underline">Available Trips</h2>
+        
+        <table class="table">
+            <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.TripId)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.VehicleId)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Date)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Time)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.DestinationAddress)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.MeetingAddress)
+                </th>
+                <th></th>
+            </tr>
+            </thead>
+            <tbody>
+        @foreach (var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TripId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.VehicleId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Date)
+                </td>
+                <td>
+                    @item.Time.ToString("h:mm tt")
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DestinationAddress)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MeetingAddress)
+                </td>
+            </tr>
+        }
+            </tbody>
+        </table>
+    } else {
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+            <div style="text-align: left;">
+                <h1 class="display-4" style="color: #FFF;">Welcome to the Carpool app</h1>
+                <h2 style="margin-top: 20px; margin-bottom: 20px; color: #FFF">Save Time, Save Money, Save the Planet!</h2>
+                <p class="lead" style="color: #FFF">Are you tired of commuting alone every day? Looking for a smarter, more sustainable way to travel? Welcome to the Carpool App, where we're transforming the way you commute.</p>
+            </div>
+            <div>
+                <img src="~/images/car.png" style="width: 100%; height: auto; border-radius: 10px;">
+            </div>
+        </div>
+    }
+</div>

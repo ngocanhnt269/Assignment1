@@ -1,0 +1,56 @@
+﻿@using Microsoft.AspNetCore.Mvc.TagHelpers
+@model DatabaseModelClasses.ViewModels.TripViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Trip</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="TripId" />
+            <div class="form-group">
+	            <label asp-for="VehicleId" class="control-label"></label>
+	            <select asp-for="VehicleId" class="form-control" asp-items="ViewBag.VehicleId"></select>
+	            <span asp-validation-for="VehicleId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Date" class="control-label"></label>
+                <input asp-for="Date" class="form-control" />
+                <span asp-validation-for="Date" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+	            <label asp-for="Time" class="control-label"></label>
+	            <input asp-for="Time" type="time" class="form-control" value="@Model.Time.ToString("HH:mm")" />
+	            <span asp-validation-for="Time" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="DestinationAddress" class="control-label"></label>
+                <input asp-for="DestinationAddress" class="form-control" />
+                <span asp-validation-for="DestinationAddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MeetingAddress" class="control-label"></label>
+                <input asp-for="MeetingAddress" class="form-control" />
+                <span asp-validation-for="MeetingAddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

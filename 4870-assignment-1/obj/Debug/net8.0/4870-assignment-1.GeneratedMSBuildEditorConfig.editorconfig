@@ -1,0 +1,187 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _4870_assignment_1
+build_property.RootNamespace = _4870_assignment_1
+build_property.ProjectDir = D:\STUDY\BCIT\TERM4\COMP4870\ASSIGNMENT1\4870-assignment-1\4870-assignment-1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\STUDY\BCIT\TERM4\COMP4870\ASSIGNMENT1\4870-assignment-1\4870-assignment-1
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Views/Manifests/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuaWZlc3RzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Views/Manifests/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuaWZlc3RzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Views/Manifests/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuaWZlc3RzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Views/Manifests/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuaWZlc3RzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Views/Manifests/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFuaWZlc3RzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Views/Members/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Views/Members/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Views/Members/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Views/Members/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Views/Members/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Views/Role/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Views/Role/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Views/Role/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Views/Role/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Views/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Views/Trips/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpcHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Views/Trips/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpcHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Views/Trips/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpcHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Views/Trips/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpcHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Views/Trips/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJpcHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Views/Vehicles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Views/Vehicles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Views/Vehicles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Views/Vehicles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Views/Vehicles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/STUDY/BCIT/TERM4/COMP4870/ASSIGNMENT1/4870-assignment-1/4870-assignment-1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-60b8qdxf96
